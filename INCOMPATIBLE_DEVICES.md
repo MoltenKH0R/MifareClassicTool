@@ -40,6 +40,7 @@ This list may be incomplete. You might also want to have a look at
 * Motorola Moto X Force
 * Motorola Moto X Play
 * Motorola Moto X Style
+* OnePlus 6T
 * Samsung Galaxy A3 (2015)
 * Samsung Galaxy A5 (2016)
 * Samsung Galaxy A7 (2016, 2017)
@@ -75,4 +76,3 @@ This list may be incomplete. You might also want to have a look at
 * Sony Xperia Z3 (SOL26)
 * Xiaomi MI 3
 * ZTE Nubia Z7 Max(NX505J)
-
